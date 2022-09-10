@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/super-hero-animation/static/css/main.c8f7fc2b.css",
+    "main.js": "/super-hero-animation/static/js/main.8d764c15.js",
+    "index.html": "/super-hero-animation/index.html",
+    "main.c8f7fc2b.css.map": "/super-hero-animation/static/css/main.c8f7fc2b.css.map",
+    "main.8d764c15.js.map": "/super-hero-animation/static/js/main.8d764c15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8f7fc2b.css",
+    "static/js/main.8d764c15.js"
+  ]
+}
